@@ -178,13 +178,22 @@ p{
 
 
 
+/* Attribution */
+.attribution {
+    font-size: 1rem; 
+    text-align: center; 
+    position: absolute;
+    bottom: 0;
+    margin-top: 0;
+    margin-bottom: 3.667rem;
+    width: 100%;
+    color: var(--vd-cyan);
+    padding-right: 1.5rem;
+}
 
-
-
-
-
-
-
+.attribution a{
+    color: var(--b-orange);
+}
 
 
 @media only screen and (max-width: 850px) {
