@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/L0rdix/3-Column](https://github.com/L0rdix/3-Column)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/L0rdix/3-Column)
+- Live Site URL: [Live Site](https://l0rdix.github.io/3-Column/)
 
 ## My process
 
